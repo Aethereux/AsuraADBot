@@ -1,6 +1,6 @@
 # Asura Ad Bot & Crash Bot for iOS
 
-This project is a custom ImGui-based menu for iOS Unreal Engine games. It provides automated tools for server advertisements (Ad Bot) and targeted server disruptions (Crash Bot). Built as a lightweight floating menu, it integrates directly with game internals to provide seamless automation and control.
+This project is a custom ImGui-based menu for ARK: Survival Evolved 2.0. It provides automated tools for server advertisements (Ad Bot) and targeted server disruptions (Crash Bot). Built as a lightweight floating menu, it integrates directly with game internals to provide seamless automation and control.
 
 ---
 
