@@ -1,0 +1,8 @@
+Package: com.asura.adbot
+Name: Template
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: ARK 2.0: AD Bot
+Maintainer: Eux
+Author: Eux
